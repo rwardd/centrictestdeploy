@@ -198,7 +198,7 @@ class App extends Component {
           
         </div>
         <div className="getOwners">
-        <h4>ATTRIBUTES</h4>
+          <h4>ATTRIBUTES</h4>
           <form onSubmit={this.handleSubmit}>
             <label>
               Get Attributes from tokenID:
