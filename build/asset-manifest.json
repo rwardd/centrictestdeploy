@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/centricfrontend/static/css/main.a22d6883.chunk.css",
-    "main.js": "/centricfrontend/static/js/main.7c24862e.chunk.js",
-    "main.js.map": "/centricfrontend/static/js/main.7c24862e.chunk.js.map",
-    "runtime-main.js": "/centricfrontend/static/js/runtime-main.db2f19f0.js",
-    "runtime-main.js.map": "/centricfrontend/static/js/runtime-main.db2f19f0.js.map",
-    "static/css/2.c0e8d3f0.chunk.css": "/centricfrontend/static/css/2.c0e8d3f0.chunk.css",
-    "static/js/2.3d15e587.chunk.js": "/centricfrontend/static/js/2.3d15e587.chunk.js",
-    "static/js/2.3d15e587.chunk.js.map": "/centricfrontend/static/js/2.3d15e587.chunk.js.map",
-    "static/js/3.39b1ebdf.chunk.js": "/centricfrontend/static/js/3.39b1ebdf.chunk.js",
-    "static/js/3.39b1ebdf.chunk.js.map": "/centricfrontend/static/js/3.39b1ebdf.chunk.js.map",
-    "index.html": "/centricfrontend/index.html",
-    "static/css/2.c0e8d3f0.chunk.css.map": "/centricfrontend/static/css/2.c0e8d3f0.chunk.css.map",
-    "static/css/main.a22d6883.chunk.css.map": "/centricfrontend/static/css/main.a22d6883.chunk.css.map",
-    "static/js/2.3d15e587.chunk.js.LICENSE.txt": "/centricfrontend/static/js/2.3d15e587.chunk.js.LICENSE.txt"
+    "main.css": "/centrictestdeploy/static/css/main.a22d6883.chunk.css",
+    "main.js": "/centrictestdeploy/static/js/main.d4512e75.chunk.js",
+    "main.js.map": "/centrictestdeploy/static/js/main.d4512e75.chunk.js.map",
+    "runtime-main.js": "/centrictestdeploy/static/js/runtime-main.4155e3b4.js",
+    "runtime-main.js.map": "/centrictestdeploy/static/js/runtime-main.4155e3b4.js.map",
+    "static/css/2.c0e8d3f0.chunk.css": "/centrictestdeploy/static/css/2.c0e8d3f0.chunk.css",
+    "static/js/2.184ba3fc.chunk.js": "/centrictestdeploy/static/js/2.184ba3fc.chunk.js",
+    "static/js/2.184ba3fc.chunk.js.map": "/centrictestdeploy/static/js/2.184ba3fc.chunk.js.map",
+    "static/js/3.39b1ebdf.chunk.js": "/centrictestdeploy/static/js/3.39b1ebdf.chunk.js",
+    "static/js/3.39b1ebdf.chunk.js.map": "/centrictestdeploy/static/js/3.39b1ebdf.chunk.js.map",
+    "index.html": "/centrictestdeploy/index.html",
+    "static/css/2.c0e8d3f0.chunk.css.map": "/centrictestdeploy/static/css/2.c0e8d3f0.chunk.css.map",
+    "static/css/main.a22d6883.chunk.css.map": "/centrictestdeploy/static/css/main.a22d6883.chunk.css.map",
+    "static/js/2.184ba3fc.chunk.js.LICENSE.txt": "/centrictestdeploy/static/js/2.184ba3fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db2f19f0.js",
+    "static/js/runtime-main.4155e3b4.js",
     "static/css/2.c0e8d3f0.chunk.css",
-    "static/js/2.3d15e587.chunk.js",
+    "static/js/2.184ba3fc.chunk.js",
     "static/css/main.a22d6883.chunk.css",
-    "static/js/main.7c24862e.chunk.js"
+    "static/js/main.d4512e75.chunk.js"
   ]
 }
